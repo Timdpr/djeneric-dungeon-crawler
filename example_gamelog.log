@@ -1,0 +1,139 @@
+Jan 12, 2018 2:44:21 PM main.java.gui.Controller logFileOnly
+INFO: Welcome to the most fantastic *Djeneric Dungeon Crawler!*
+
+ 
+Jan 12, 2018 2:44:21 PM main.java.gui.Controller logFileOnly
+INFO: You stride into the fiendishly not very difficult Caverns of Adoddle
+
+ 
+Jan 12, 2018 2:44:24 PM main.java.gui.Controller logFileOnly
+INFO: pressed right
+ 
+Jan 12, 2018 2:44:24 PM main.java.gui.Controller logFileOnly
+INFO: There is nothing here
+
+ 
+Jan 12, 2018 2:44:24 PM main.java.gui.Controller logFileOnly
+INFO: pressed right
+ 
+Jan 12, 2018 2:44:24 PM main.java.gui.Controller logFileOnly
+INFO: There is nothing here
+
+ 
+Jan 12, 2018 2:44:25 PM main.java.gui.Controller logFileOnly
+INFO: pressed down
+ 
+Jan 12, 2018 2:44:25 PM main.java.gui.Controller logFileOnly
+INFO: There is nothing here
+
+ 
+Jan 12, 2018 2:44:25 PM main.java.gui.Controller logFileOnly
+INFO: pressed down
+ 
+Jan 12, 2018 2:44:25 PM main.java.gui.Controller logFileOnly
+INFO: You encountered Klang. "Grr!" they shout, very convincingly. Time to battle!
+You hit Klang for 2HP.
+Klang hits you for 1HP.
+You hit Klang for 2HP.
+Pow! Biff! Wallop! Knock out!
+You were victorious! You gained 5 xp.
+
+ 
+Jan 12, 2018 2:44:25 PM main.java.gui.Controller logFileOnly
+INFO: pressed down
+ 
+Jan 12, 2018 2:44:25 PM main.java.gui.Controller logFileOnly
+INFO: 
+**************
+You take the stairs. They lead to another dungeon. Your HP has been reset. Weird.
+
+You hold your breath as you creep through the back entrance of The Putrescent Castle of Rafflesia
+
+
+ 
+Jan 12, 2018 2:44:26 PM main.java.gui.Controller logFileOnly
+INFO: pressed right
+ 
+Jan 12, 2018 2:44:26 PM main.java.gui.Controller logFileOnly
+INFO: You encountered Glarg, a terrifying beasty I must say. Time to battle!
+You hit Glarg for 2HP.
+Glarg hits you for 2HP.
+You hit Glarg for 2HP.
+Glarg hits you for 2HP.
+You hit Glarg for 2HP.
+Ka-chunk! Blergh!
+You were victorious! You gained 10 xp.
+You levelled up! Your new level is 2
+
+ 
+Jan 12, 2018 2:44:27 PM main.java.gui.Controller logFileOnly
+INFO: pressed up
+ 
+Jan 12, 2018 2:44:27 PM main.java.gui.Controller logFileOnly
+INFO: You can't move here! Try again.
+
+ 
+Jan 12, 2018 2:44:27 PM main.java.gui.Controller logFileOnly
+INFO: pressed left
+ 
+Jan 12, 2018 2:44:27 PM main.java.gui.Controller logFileOnly
+INFO: You hold your breath as you creep through the back entrance of The Putrescent Castle of Rafflesia
+
+ 
+Jan 12, 2018 2:44:28 PM main.java.gui.Controller logFileOnly
+INFO: pressed left
+ 
+Jan 12, 2018 2:44:28 PM main.java.gui.Controller logFileOnly
+INFO: You can't move here! Try again.
+
+ 
+Jan 12, 2018 2:44:28 PM main.java.gui.Controller logFileOnly
+INFO: pressed up
+ 
+Jan 12, 2018 2:44:28 PM main.java.gui.Controller logFileOnly
+INFO: There is nothing here
+
+ 
+Jan 12, 2018 2:44:30 PM main.java.gui.Controller logFileOnly
+INFO: pressed up
+ 
+Jan 12, 2018 2:44:30 PM main.java.gui.Controller logFileOnly
+INFO: You encountered Wharg, a terrifying beasty I must say. Time to battle!
+You hit Wharg for 4HP.
+Wharg hits you for 2HP.
+You hit Wharg for 4HP.
+The monster comes crashing to the floor...
+You were victorious! You gained 10 xp.
+
+ 
+Jan 12, 2018 2:44:30 PM main.java.gui.Controller logFileOnly
+INFO: pressed left
+ 
+Jan 12, 2018 2:44:30 PM main.java.gui.Controller logFileOnly
+INFO: You can't move here! Try again.
+
+ 
+Jan 12, 2018 2:44:31 PM main.java.gui.Controller logFileOnly
+INFO: pressed down
+ 
+Jan 12, 2018 2:44:31 PM main.java.gui.Controller logFileOnly
+INFO: There is nothing here
+
+ 
+Jan 12, 2018 2:44:31 PM main.java.gui.Controller logFileOnly
+INFO: pressed right
+ 
+Jan 12, 2018 2:44:31 PM main.java.gui.Controller logFileOnly
+INFO: You can't move here! Try again.
+
+ 
+Jan 12, 2018 2:44:39 PM main.java.gui.Controller logFileOnly
+INFO: pressed help
+ 
+Jan 12, 2018 2:44:39 PM main.java.gui.Controller logFileOnly
+INFO: Press the movement buttons to move around the current dungeon. There are 5 dungeons to fight through.
+
+ 
+Jan 12, 2018 2:44:40 PM main.java.gui.Controller logFileOnly
+INFO: pressed quit
+ 
