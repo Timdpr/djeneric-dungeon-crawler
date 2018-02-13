@@ -1,7 +1,6 @@
 # Djeneric Dungeon Crawler ![Logo](https://i.imgur.com/akYApg7.png)
 
-##### Congratulations, you have stumbled upon Tim Russell's fabulous Djeneric Dungeon Crawler game! It's like nothing you ever saw before!
-
+#### Congratulations, you have stumbled upon Tim Russell's fabulous Djeneric Dungeon Crawler game! It's like nothing you ever saw before!<br/>
 
 ## Can I play it?
 
