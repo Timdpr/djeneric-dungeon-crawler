@@ -15,5 +15,4 @@ Sure, make with the cloning and all that. I'll eventually get round to wrapping 
 
 You know, that MIT one.
 
-![The labyrinth](https://i.imgur.com/ExwneJ2.jpg "The labyrinth....")
-![The mines](https://i.imgur.com/Kku5jxJ.jpg "The mines.... Many more levels are available (2!)")
+![The labyrinth](https://i.imgur.com/GxUmPJD.jpg "The labyrinth....")![The mines](https://i.imgur.com/WYpXZQm.jpg "The mines.... Many more levels are available (2!)")
